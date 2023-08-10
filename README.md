@@ -1,4 +1,4 @@
-# Astro Starter Kit: Portfolio
+# To Begin :
 
 ```
 npm create astro@latest -- --template portfolio
@@ -10,7 +10,7 @@ npm create astro@latest -- --template portfolio
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-![portfolio](https://user-images.githubusercontent.com/357379/210779178-a98f0fb7-6b1a-4068-894c-8e1403e26654.jpg)
+![portfolio](https://ibb.co/GMBQRZD)
 
 ## 🧞 Commands
 
@@ -25,6 +25,3 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
