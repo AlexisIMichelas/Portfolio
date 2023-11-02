@@ -1,7 +1,7 @@
 ---
 title: Emmaus Connect
 publishDate: 2020-03-04 00:00:00
-img: /assets/emmaus.JPG
+img: /assets/custom/emmaus.JPG
 img_alt: emmaus homepage
 description: |
   I developed an application for emmaus, including a calculation solution...

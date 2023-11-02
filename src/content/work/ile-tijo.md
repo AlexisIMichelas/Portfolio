@@ -1,7 +1,7 @@
 ---
 title: L'ile de Tijo
 publishDate: 2019-12-01 00:00:00
-img: /assets/tijo.JPG
+img: /assets/custom/tijo.JPG
 img_alt: homepage of tijo
 description: |
   The island of tijo, redesign of an existing site...

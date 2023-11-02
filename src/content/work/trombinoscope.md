@@ -1,7 +1,7 @@
 ---
 title: Trombinoscope
 publishDate: 2019-10-02 00:00:00
-img: /assets/trombinoscope.JPG
+img: /assets/custom/trombinoscope.JPG
 img_alt: homepage of trombinoscope
 description: |
   Trombinoscope is my first creation...
