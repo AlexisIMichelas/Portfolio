@@ -1,17 +1,19 @@
 ---
-title: Trombinoscope
+title: Take a card
 publishDate: 2019-10-02 00:00:00
-img: /assets/custom/trombinoscope.JPG
-img_alt: homepage of trombinoscope
+img: /assets/custom/yugioh.JPG
+img_alt: homepage of take a card
 description: |
-  Trombinoscope is my first creation...
+  Take a card, my first Angular application, connected to the ygoprodeck API with a service, enjoy
 tags:
-  - Design
   - Front-end
+  - Responsive
+  - Typescript
+  - Angular
 ---
 
-Link : https://wildcodeschool.github.io/2023-03-remote-fr-php-trombinoscope/
+Link : https://yu-gi-oh-cards.vercel.app/
 
-Trombinoscope, my first project done in training, the application is responsive and presents, with modals, all of my crew.
+Take a card, my first Angular application, connected to the ygoprodeck API with a service, enjoy.
 
-Stack : HTML - CSS - JavaScript
+Stack : HTML - CSS - Angular - Typescript
