@@ -189,13 +189,6 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"work": {
-"ile-tijo.md": {
-	id: "ile-tijo.md";
-  slug: "ile-tijo";
-  body: string;
-  collection: "work";
-  data: InferEntrySchema<"work">
-} & { render(): Render[".md"] };
 "ligne-bleue.md": {
 	id: "ligne-bleue.md";
   slug: "ligne-bleue";
@@ -206,6 +199,13 @@ declare module 'astro:content' {
 "nested/emmaus-connect.md": {
 	id: "nested/emmaus-connect.md";
   slug: "nested/emmaus-connect";
+  body: string;
+  collection: "work";
+  data: InferEntrySchema<"work">
+} & { render(): Render[".md"] };
+"showmylife.md": {
+	id: "showmylife.md";
+  slug: "showmylife";
   body: string;
   collection: "work";
   data: InferEntrySchema<"work">
