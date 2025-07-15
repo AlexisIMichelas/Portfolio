@@ -196,13 +196,6 @@ declare module 'astro:content' {
   collection: "work";
   data: InferEntrySchema<"work">
 } & { render(): Render[".md"] };
-"nested/emmaus-connect.md": {
-	id: "nested/emmaus-connect.md";
-  slug: "nested/emmaus-connect";
-  body: string;
-  collection: "work";
-  data: InferEntrySchema<"work">
-} & { render(): Render[".md"] };
 "showmylife.md": {
 	id: "showmylife.md";
   slug: "showmylife";
@@ -210,9 +203,9 @@ declare module 'astro:content' {
   collection: "work";
   data: InferEntrySchema<"work">
 } & { render(): Render[".md"] };
-"trombinoscope.md": {
-	id: "trombinoscope.md";
-  slug: "trombinoscope";
+"wanted.md": {
+	id: "wanted.md";
+  slug: "wanted";
   body: string;
   collection: "work";
   data: InferEntrySchema<"work">
